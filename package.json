@@ -1,6 +1,6 @@
 {
   "name": "discordie",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "A Node.js module for interfacing with the Discord API.",
   "main": "./lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qeled/discordie.git"
+    "url": "git+https://github.com/Kaotic/discordie.git"
   },
   "keywords": [
     "discordapp",
